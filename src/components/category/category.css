@@ -1,0 +1,25 @@
+.category-container{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    text-align: center;
+}
+
+
+.category-container i{
+    color: white;
+    justify-content: center;
+    line-height: 90px;
+    font-size: 35px;
+}
+
+.category-title{
+    position: absolute;
+    display: flex;
+    color: black;
+    line-height: 50px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
