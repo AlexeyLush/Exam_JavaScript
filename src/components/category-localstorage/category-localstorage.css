@@ -1,0 +1,14 @@
+.titleCategory{
+    margin-left: 100px;
+}
+
+.valueCategory{
+    margin-left: 50px;
+}
+
+.container{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+}
